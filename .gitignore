@@ -1,0 +1,4 @@
+*.dmg
+*.pkg
+*.mpkg
+.vagrant

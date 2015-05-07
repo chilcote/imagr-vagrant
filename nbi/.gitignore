@@ -1,0 +1,6 @@
+imagr_config.plist
+*.nbi
+*.dmg
+*.pkg
+*.mpkg
+*.plist
